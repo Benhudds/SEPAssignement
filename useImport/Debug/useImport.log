@@ -1,0 +1,17 @@
+﻿Build started 22/02/2017 12:05:59.
+     1>Project "C:\Users\Ben\Documents\Visual Studio 2012\Projects\CO2411Assignment\useImport\useImport.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\Ben\Documents\Visual Studio 2012\Projects\CO2411Assignment\SalesDataCommon" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\useImport.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\Ben\Documents\Visual Studio 2012\Projects\CO2411Assignment\SalesDataCommon" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\useImport.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt useImport.cpp
+         useImport.cpp
+     1>c:\users\ben\documents\visual studio 2012\projects\co2411assignment\useimport\useimport.cpp(36): warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\Ben\Documents\Visual Studio 2012\Projects\CO2411Assignment\Debug\useImport.lib" /NOLOGO Debug\stdafx.obj
+         Debug\useImport.obj
+         useImport.vcxproj -> C:\Users\Ben\Documents\Visual Studio 2012\Projects\CO2411Assignment\Debug\useImport.lib
+     1>Done Building Project "C:\Users\Ben\Documents\Visual Studio 2012\Projects\CO2411Assignment\useImport\useImport.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.88
